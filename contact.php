@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     $email='From:'.$_POST['email'];
     $sub=$_POST['sub'];
     $msg=$phone.$_POST['msg'];
-    $to = "abutalha5896@gmail.com";
+    $to = "example@mail.com";
 
 // $to = "somebody@example.com";
 // $subject = "My subject";
